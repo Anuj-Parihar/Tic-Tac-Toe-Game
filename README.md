@@ -1,0 +1,1 @@
+#Tic Tac Toe is a simple and interactive web game built using HTML for structure, CSS for styling, and JavaScript for logic, where two players alternate turns marking X or O on a 3x3 grid to align three symbols in a row, column, or diagonal. This project helps in understanding DOM manipulation, event handling, and dynamic styling in web development.(Dec-2023)
